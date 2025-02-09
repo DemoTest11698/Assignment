@@ -13,7 +13,7 @@ bash
 Copy
 Edit
 git clone (https://github.com/DemoTest11698/Assignment.git/)
-cd main
+cd videoapp
 2. Install dependencies
 This project uses Maven to manage dependencies. 
 
